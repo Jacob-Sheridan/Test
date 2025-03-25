@@ -1,2 +1,1 @@
-#!/bin/bash
-ls
+echo "hello from github"
